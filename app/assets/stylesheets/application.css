@@ -13,3 +13,11 @@
  *= require_tree .
  *= require_self
  */
+
+.panel .admin {
+	display: none;
+}
+
+.panel.hover .admin {
+	display: inline;
+}
