@@ -14,6 +14,9 @@
  *= require_self
  */
 
+body {
+	padding-top: 50px;
+}
 .panel .admin {
 	display: none;
 }
